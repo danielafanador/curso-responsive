@@ -1,0 +1,22 @@
+
+.main-tables-container {
+    display: flex;
+    width: 930px;
+    height: 280px;
+    margin: 0 auto;
+}
+
+.main-currency-table {
+    height: 0px;
+}
+
+.product-cards--container {
+    display: flex;
+    flex-wrap: wrap;
+    width: 930px;
+    margin: 0 auto;
+}
+
+.plans-container--slider {
+    justify-content: center;
+}
